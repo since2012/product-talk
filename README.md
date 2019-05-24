@@ -10,7 +10,7 @@
 * ###### 支付宝
 	* [支付宝战胜微信的终极大招，是把自己做成一个“养成游戏”](https://mp.weixin.qq.com/s/AACQ-vdtq0bf1qm-wal9kg)
 * ###### 微信
-	* [从微信离职创业，我悟出了 10 条产品生存法则](product/1.md)
+	* [从微信离职创业，我悟出了 10 条产品生存法则](product/产品生存法则.md)
 	* [张小龙内部分享：我们只做一件事情，产品只有一个定位](https://mp.weixin.qq.com/s/8nrjDp6UoLM4OJlNnunxYw)
 * ###### 豆瓣
 	* [以豆瓣评分为例，如何做好产品分析](http://mp.weixin.qq.com/s/pv5H5lN60DBqXohafJBC3Q)
